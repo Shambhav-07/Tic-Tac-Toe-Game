@@ -10,8 +10,9 @@ Open the index.html file in your web browser.
 To play the game, simply click on the grid to place your X or O. The game will automatically switch between players. The first player to get three in a row (horizontally, vertically, or diagonally) wins the game.
 <br>
 <h1>Features</h1>
-Simple and intuitive interface.<br>
-Two-player gameplay.
+<ul>
+<li>Simple and intuitive interface.</li>
+<li>Two-player gameplay.</li></ul>
 <h1>Contributing</h1>
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
